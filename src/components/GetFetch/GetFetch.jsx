@@ -6,7 +6,7 @@ import './style.css'
 
 export default function GetFetch() {
     const [post, setPost] = useState([])
-    const [counter, setCounter] = useState(1)
+    const [counter, setCounter] = useState(5)
     const [search, setSearch] = useState('')
 
 
